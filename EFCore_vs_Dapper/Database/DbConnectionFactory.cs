@@ -1,7 +1,4 @@
-﻿
-
-using Dapper;
-using Microsoft.Data.Sqlite;
+﻿using Microsoft.Data.Sqlite;
 using System.Data;
 using System.Data.Common;
 using System.Data.Entity.Infrastructure;
@@ -14,9 +11,6 @@ namespace EFCore_vs_Dapper.Database
 
         public SqliteConnectionFactory(string connectionString)
         {
-           // SqlMapper.AddTypeHandler(new LongTypeHandler());
-            //SqlMapper.RemoveTypeMap(typeof(long));
-            //SqlMapper.RemoveTypeMap(typeof(long?));
             _connectionString = connectionString;
         }
 
