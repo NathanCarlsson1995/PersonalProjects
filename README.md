@@ -1,6 +1,8 @@
+# EFCore_vs_Dapper
+
 This project shows the difference in time execution and memory usage between Entity Framework and Dapper.
 
-# Results
+**Results**
 |         Method |         Mean |       Error |      StdDev |       Median | Allocated |
 |--------------- |-------------:|------------:|------------:|-------------:|----------:|
 |        EF_Find |     117.4 ns |     2.79 ns |     8.09 ns |     116.0 ns |     160 B |
