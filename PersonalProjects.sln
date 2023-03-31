@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32516.85
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCore_vs_Dapper", "EFCore_vs_Dapper\EFCore_vs_Dapper.csproj", "{94F344EA-95F3-488E-9A34-E8378833300E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFCore_vs_Dapper", "EFCore_vs_Dapper\EFCore_vs_Dapper.csproj", "{94F344EA-95F3-488E-9A34-E8378833300E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapperComparisons", "MapperComparisons\MapperComparisons.csproj", "{2007B1ED-9815-47AA-B94D-1023CDB241C5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{94F344EA-95F3-488E-9A34-E8378833300E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94F344EA-95F3-488E-9A34-E8378833300E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94F344EA-95F3-488E-9A34-E8378833300E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2007B1ED-9815-47AA-B94D-1023CDB241C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2007B1ED-9815-47AA-B94D-1023CDB241C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2007B1ED-9815-47AA-B94D-1023CDB241C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2007B1ED-9815-47AA-B94D-1023CDB241C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
