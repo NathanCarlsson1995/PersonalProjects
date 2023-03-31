@@ -19,7 +19,5 @@ This project compares 3 mapping packages (Manual, Mapperly & TinyMapper) and dis
 |             Method |      Mean |     Error |    StdDev |    Median |   Gen0 |   Gen1 | Allocated |
 |------------------- |----------:|----------:|----------:|----------:|-------:|-------:|----------:|
 |     Manual_Mapping |  4.488 us | 0.1179 us | 0.3475 us |  4.362 us | 3.0746 | 0.1526 |  18.84 KB |
-|                    |           |           |           |           |        |        |           |
 |   Mapperly_Mapping |  2.663 us | 0.0721 us | 0.2115 us |  2.583 us | 2.3537 | 0.1221 |  14.42 KB |
-|                    |           |           |           |           |        |        |           |
 | TinyMapper_Mapping | 38.701 us | 0.8673 us | 2.5436 us | 37.998 us | 3.9673 | 0.2441 |  24.57 KB |
