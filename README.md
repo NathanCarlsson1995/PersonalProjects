@@ -11,7 +11,7 @@ This project shows the difference in time execution and memory usage between Ent
 | Dapper_GetById |  59,000.5 ns | 1,596.03 ns | 4,655.70 ns |  57,778.1 ns |    1920 B |
 
 
-# Mapper Comparisons
+# MapperComparisons
 
 This project compares 3 mapping packages (Manual, Mapperly & TinyMapper) and displays the difference in time execution and memory usage.
 
